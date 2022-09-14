@@ -53,8 +53,8 @@ body {
   grid-template-columns: auto auto auto auto;
   gap: 25px;
   margin: 100px;
-
 }
+
 
 .item1, .item2, .item3, .item4, .item5 {
   padding: 30px;
@@ -136,6 +136,7 @@ h6 {
 .attribution {
   font-size: 11px;
   text-align: center;
+  margin-bottom: 30px;
 
 }
 .attribution a {
@@ -157,8 +158,5 @@ h6 {
   .item3 {
     order: 5;
   }
-
-
-
 
 }
